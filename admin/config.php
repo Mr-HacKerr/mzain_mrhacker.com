@@ -1,15 +1,15 @@
 <?php 
 
 //-----------Your Email
-$your_email = "sahityaporwal15@gmail.com";
+$your_email = "zain@gmail.com";
 
 
 //-----------Your ADMINname
-$name = "SahityaPorwal";
+$name = "zain";
 
 
 //-----------Your Password
-$pass_word = "IconicTechs.com";
+$pass_word = "zain.com";
 //---------------------  Don't touch it !!! --------------------------------
 $wrong_password_Error = " Your password is wrong .";
 $help = "Check your email <b>( $your_email )</b> , to find your password .";
