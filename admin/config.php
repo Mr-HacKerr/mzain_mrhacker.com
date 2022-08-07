@@ -1,7 +1,7 @@
 <?php 
 
 //-----------Your Email
-$your_email = "zain@gmail.com";
+$your_email = "mzainmawais32@gmail.com";
 
 
 //-----------Your ADMINname
